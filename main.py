@@ -3,7 +3,6 @@
 	There are several variants, including quasi-regular constructions.
 '''
 
-
 from sim import *
 
 
